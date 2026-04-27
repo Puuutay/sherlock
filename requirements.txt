@@ -1,2 +1,0 @@
-streamlit
--r sherlock/requirements.txt
